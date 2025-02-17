@@ -1,6 +1,3 @@
-# ----- bartmangosc -----
-# ----- Blockchain simulation -----
-
 import hashlib
 import time
 import json
